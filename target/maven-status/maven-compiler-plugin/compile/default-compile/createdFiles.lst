@@ -1,0 +1,8 @@
+com\aluracursos\desafio\service\ConsumoAPI.class
+com\aluracursos\desafio\model\DatosAutor.class
+com\aluracursos\desafio\DesafioApplication.class
+com\aluracursos\desafio\service\IConvierteDatos.class
+com\aluracursos\desafio\model\DatosLibros.class
+com\aluracursos\desafio\service\ConvierteDatos.class
+com\aluracursos\desafio\model\Datos.class
+com\aluracursos\desafio\principal\Principal.class
